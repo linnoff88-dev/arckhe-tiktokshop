@@ -11,14 +11,14 @@
 - **Fórmula:** GMV = Tráfego × CVR × AOV
 
 ### 2. CVR (Conversion Rate)
-- **O que é:** Taxa de conversão
+- **O que é:** Taxa de conversêo
 - **Benchmark:** 2-5% média do TikTok Shop
 - **Meta:** Acima de 3%
 
 ### 3. AOV (Average Order Value)
 - **O que é:** Ticket médio
 - **Benchmark:** R$50-80
-- **Otimização:** Bundles, upsell
+- **Otimizaçêo:** Bundles, upsell
 
 ### 4. ROAS (Return on Ad Spend)
 - **O que é:** Retorno sobre investimento em ads
@@ -29,7 +29,7 @@
 
 ## Template de Dashboard Semanal
 
-| Métrica | Meta | Semana Atual | Semana Anterior | Variação |
+| Métrica | Meta | Semana Atual | Semana Anterior | Variaçêo |
 |---------|------|--------------|-----------------|----------|
 | GMV | R$____ | R$____ | R$____ | ___% |
 | Pedidos | ____ | ____ | ____ | ___% |
@@ -62,7 +62,7 @@
 - [ ] Produtos mais vendidos
 - [ ] ROI por canal
 - [ ] Performance Pareto de afiliados
-- [ ] Projeção próximo mês
+- [ ] Projeçêo próximo mês
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### Poucos cliques no produto
 - [ ] CTA fraco → Adicionar call-to-action
-- [ ] Produto não mostrado → Destacar visualmente
+- [ ] Produto nêo mostrado → Destacar visualmente
 - [ ] Audiência errada → Ajustar conteúdo
 
 ### Add-to-Cart baixo

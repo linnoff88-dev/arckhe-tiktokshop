@@ -6,27 +6,27 @@
 ## Modelo de Tiers Progressivos
 
 ### Tier Inicial (Novos Afiliados)
-- **Comissão:** 10-12%
+- **Comissêo:** 10-12%
 - **Critério:** Primeiros 30 dias
 - **Benefícios:** Kit de boas-vindas, produtos grátis para review
 
 ### Tier Bronze
-- **Comissão:** 15%
+- **Comissêo:** 15%
 - **Critério:** 5+ vendas no mês
 - **Benefícios:** Suporte prioritário, código de desconto exclusivo
 
 ### Tier Prata
-- **Comissão:** 18%
+- **Comissêo:** 18%
 - **Critério:** 20+ vendas no mês
 - **Benefícios:** Early access a lançamentos, materiais exclusivos
 
 ### Tier Ouro
-- **Comissão:** 20-25%
+- **Comissêo:** 20-25%
 - **Critério:** 50+ vendas no mês
 - **Benefícios:** Destaque no perfil da marca, bônus trimestral
 
 ### Tier Diamante
-- **Comissão:** 25-30% + Bônus
+- **Comissêo:** 25-30% + Bônus
 - **Critério:** 100+ vendas no mês
 - **Benefícios:** Contrato de exclusividade, eventos VIP, fee fixo híbrido
 
@@ -41,7 +41,7 @@
 | Preço de venda | R$100 |
 | Custo do produto | R$30 |
 | Taxa TikTok Shop (5%) | R$5 |
-| Comissão criador (20%) | R$20 |
+| Comissêo criador (20%) | R$20 |
 | Frete | R$10 |
 | **Lucro** | **R$35 (35%)** |
 
@@ -67,7 +67,7 @@
 Olá [Nome],
 
 Estamos oferecendo parceria com:
-✓ Comissão inicial de [X]%
+✓ Comissêo inicial de [X]%
 ✓ Upgrade para [Y]% com 20+ vendas
 ✓ Produtos grátis para review
 ✓ Suporte dedicado

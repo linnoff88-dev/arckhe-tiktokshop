@@ -1,10 +1,10 @@
 
 
-# 🔧 **tRILHA Extra – Automação Avançada de Conteúdo com IA**
+# 🔧 **tRILHA Extra – Automaçêo Avançada de Conteúdo com IA**
 
 ### 🎯 Objetivo do TRILHA
 
-Ensinar como **gerar, editar e publicar conteúdo automaticamente**, usando IA + automações, reduzindo o trabalho humano a supervisão e estratégia.
+Ensinar como **gerar, editar e publicar conteúdo automaticamente**, usando IA + automações, reduzindo o trabalho humano a supervisêo e estratégia.
 
 ---
 
@@ -13,31 +13,31 @@ Ensinar como **gerar, editar e publicar conteúdo automaticamente**, usando IA +
 👉 Esse módulo deve começar mostrando **o sistema completo**, antes das ferramentas.
 
 **Fluxo macro:**
-Ideia → Roteiro → Vídeo IA → Edição → Publicação → Monitoramento
+Ideia → Roteiro → Vídeo IA → Ediçêo → Publicaçêo → Monitoramento
 
 ---
 
-## ⚙️ **Aula 1 – Orquestração com n8n e Make**
+## ⚙️ **Aula 1 – Orquestraçêo com n8n e Make**
 
-📌 *Cérebro da automação*
+📌 *Cérebro da automaçêo*
 
 **Conteúdo:**
 
 * Quando usar **n8n** vs **Make**
 * Webhooks e gatilhos
 * Conectar APIs de IA
-* Execução em lote (batch)
+* Execuçêo em lote (batch)
 
 **Exemplo de fluxo:**
 
 * Google Sheets / Notion →
 * n8n gera roteiro (IA) →
-* envia para geração de vídeo →
+* envia para geraçêo de vídeo →
 * retorna link final
 
 ---
 
-## ✍️ **Aula 2 – Geração de Roteiros e Copy com IA**
+## ✍️ **Aula 2 – Geraçêo de Roteiros e Copy com IA**
 
 **Ferramentas:**
 
@@ -45,7 +45,7 @@ Ideia → Roteiro → Vídeo IA → Edição → Publicação → Monitoramento
 * Prompts versionados
 * Variações automáticas (A/B)
 
-**Automação real:**
+**Automaçêo real:**
 
 * 1 ideia → 5 roteiros → 5 ganchos → 5 CTAs
 
@@ -88,20 +88,20 @@ Roteiro → HeyGen → Opus → Pasta final
 **Diferencial:**
 
 * Escala massiva
-* Zero gravação
+* Zero gravaçêo
 * Ideal para afiliados
 
 ---
 
-## 📤 **Aula 5 – Publicação Automática (Botato e similares)**
+## 📤 **Aula 5 – Publicaçêo Automática (Botato e similares)**
 
 📌 *Onde tudo vira resultado*
 
 **Conteúdo:**
 
-* Publicação automática no TikTok
+* Publicaçêo automática no TikTok
 * Agendamento em massa
-* Rotação de contas
+* Rotaçêo de contas
 * Controle de riscos (shadowban)
 
 **Fluxo final:**
@@ -109,20 +109,20 @@ Vídeo pronto → Botato → TikTok Shop → Link afiliado
 
 ---
 
-## 📊 **Aula 6 – Monitoramento e Otimização**
+## 📊 **Aula 6 – Monitoramento e Otimizaçêo**
 
 **Automatizar também:**
 
 * Coleta de métricas
 * Vídeos vencedores
 * Repost automático
-* Pausar o que não performa
+* Pausar o que nêo performa
 
 ---
 
 ## 📎 **Anexos obrigatórios desse módulo**
 
-✔ Diagramas de automação
+✔ Diagramas de automaçêo
 ✔ Templates de n8n / Make
 ✔ Prompts prontos
 ✔ Planilha de controle
@@ -142,12 +142,12 @@ Isso aumenta **credibilidade** e **confiança**.
 
 ---
 
-## 💡 Minha opinião estratégica
+## 💡 Minha opiniêo estratégica
 
 Isso aqui:
 
-* não é iniciante
-* não deve ficar misturado com automação básica
+* nêo é iniciante
+* nêo deve ficar misturado com automaçêo básica
 * **é um diferencial brutal da trilha**
 
 Eu posicionaria como:

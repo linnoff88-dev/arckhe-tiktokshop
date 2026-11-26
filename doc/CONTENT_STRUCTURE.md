@@ -1,6 +1,6 @@
 # Content Structure - TikTok Shop Academy 2025
 
-Documentação da estrutura e metodologia de criação de conteúdo para os módulos do curso.
+Documentaçêo da estrutura e metodologia de criaçêo de conteúdo para os módulos do curso.
 
 ---
 
@@ -12,18 +12,18 @@ Cada módulo segue uma estrutura pedagógica consistente:
 1. HEADER
    └── Badge da categoria
    └── Título com emoji
-   └── Descrição (1-2 linhas)
+   └── Descriçêo (1-2 linhas)
 
 2. STATS BANNER
    └── 3-5 métricas-chave do módulo
 
 3. CONCEITOS PRINCIPAIS (2-4 seções)
-   └── Cada conceito em seção própria
+   └── Cada conceito em seçêo própria
    └── Ordem: mais importante primeiro
 
 4. ELEMENTOS DE SUPORTE
    └── Exemplos práticos
-   └── Comparações (fazer/não fazer)
+   └── Comparações (fazer/nêo fazer)
    └── Dados e pesquisas
 
 5. RESUMO/CHECKLIST
@@ -33,19 +33,19 @@ Cada módulo segue uma estrutura pedagógica consistente:
 
 ---
 
-## 2. Anatomia de uma Seção de Conceito
+## 2. Anatomia de uma Seçêo de Conceito
 
-### 2.1 Estrutura Padrão
+### 2.1 Estrutura Padrêo
 
 ```
-SEÇÃO DE CONCEITO
+SEÇêO DE CONCEITO
 ├── Header (emoji + título + subtítulo)
-├── Parágrafo de Introdução
-│   └── Explicação do "O QUÊ" e "POR QUÊ"
+├── Parágrafo de Introduçêo
+│   └── Explicaçêo do "O QUÊ" e "POR QUÊ"
 ├── Box de Detalhamento
-│   └── Explicação técnica/aprofundada
+│   └── Explicaçêo técnica/aprofundada
 │   └── Diagramas visuais (se aplicável)
-├── Grid de Aplicação
+├── Grid de Aplicaçêo
 │   └── Coluna 1: Positivo/Fazer
 │   └── Coluna 2: Negativo/Evitar
 ├── Box de Dados/Pesquisa
@@ -59,11 +59,11 @@ SEÇÃO DE CONCEITO
 ### 2.2 Exemplo Real (Módulo 2 - Algoritmo)
 
 ```
-SEÇÃO: Watch Time
+SEÇêO: Watch Time
 ├── Header: ⏱️ "A Métrica Rainha: Watch Time"
 ├── Intro: "O Watch Time Completion Rate é o fator mais importante..."
 ├── Box: Benchmarks visuais com barras de progresso
-│   └── <30% = Vermelho (distribuição cortada)
+│   └── <30% = Vermelho (distribuiçêo cortada)
 │   └── 30-50% = Amarelo (alcance limitado)
 │   └── 50-75% = Azul (bom desempenho)
 │   └── 75%+ = Verde (potencial viral)
@@ -94,7 +94,7 @@ SEÇÃO: Watch Time
 
 ### 3.4 Box de Dica Prática
 - **Cor:** `primary/10` com borda `primary/30`
-- **Uso:** Aplicação prática do conceito
+- **Uso:** Aplicaçêo prática do conceito
 - **Elementos:** Lista numerada de passos
 
 ### 3.5 Box de Alerta/Importante
@@ -102,7 +102,7 @@ SEÇÃO: Watch Time
 - **Uso:** Destacar pontos críticos
 - **Elementos:** Ícone + texto direto
 
-### 3.6 Grid de Comparação
+### 3.6 Grid de Comparaçêo
 - **Cores:** `emerald-900/20` vs `red-900/20`
 - **Uso:** Contrastar práticas corretas e incorretas
 - **Elementos:** Duas colunas com listas
@@ -117,7 +117,7 @@ SEÇÃO: Watch Time
 ```
 ## Watch Time
 - Acima de 75% é bom
-- Mantenha a atenção do espectador
+- Mantenha a atençêo do espectador
 ```
 
 **DEPOIS (Enriquecido):**
@@ -125,7 +125,7 @@ SEÇÃO: Watch Time
 ## ⏱️ A Métrica Rainha: Watch Time
 
 O Watch Time Completion Rate é o fator mais importante para o algoritmo.
-Não basta ter visualizações - você precisa que as pessoas assistam ATÉ O FINAL.
+Nêo basta ter visualizações - você precisa que as pessoas assistam ATÉ O FINAL.
 
 ### 📈 Benchmarks de Watch Time
 
@@ -147,27 +147,27 @@ Não basta ter visualizações - você precisa que as pessoas assistam ATÉ O FI
 Para cada conceito, adicionar:
 
 - [ ] **Contexto:** Por que isso importa?
-- [ ] **Explicação técnica:** Como funciona?
-- [ ] **Visualização:** Diagrama, barra, timeline
+- [ ] **Explicaçêo técnica:** Como funciona?
+- [ ] **Visualizaçêo:** Diagrama, barra, timeline
 - [ ] **Exemplos:** Casos reais, hooks prontos
-- [ ] **Comparação:** Certo vs Errado
+- [ ] **Comparaçêo:** Certo vs Errado
 - [ ] **Dados:** Estatísticas com fonte
-- [ ] **Aplicação:** Como usar na prática
+- [ ] **Aplicaçêo:** Como usar na prática
 
 ---
 
 ## 5. Padrões de Escrita
 
 ### 5.1 Tom de Voz
-- **Direto e prático:** Sem enrolação
+- **Direto e prático:** Sem enrolaçêo
 - **Conversacional:** Como se falasse com um amigo
-- **Confiante:** Afirmações claras, não "talvez" ou "pode ser"
+- **Confiante:** Afirmações claras, nêo "talvez" ou "pode ser"
 - **Empolgante:** Usar destaques em **negrito** para pontos-chave
 
 ### 5.2 Estrutura de Parágrafos
 - **Máximo 3-4 linhas** por parágrafo
 - **Primeira frase:** Conceito principal
-- **Restante:** Explicação ou exemplo
+- **Restante:** Explicaçêo ou exemplo
 - **Destaque:** Palavra-chave em **negrito** ou cor
 
 ### 5.3 Uso de Listas
@@ -196,25 +196,25 @@ Sempre incluir exemplos concretos e prontos para usar:
    └── Como funciona (técnico)
 
 2. Conceitos Secundários (2-3)
-   └── Cada um com sua seção
+   └── Cada um com sua seçêo
 
 3. Conexões
    └── Como os conceitos se relacionam
 
-4. Aplicação
+4. Aplicaçêo
    └── Resumo prático
-   └── Checklist de ação
+   └── Checklist de açêo
 ```
 
 ### 6.2 Módulo Técnico (ex: Tempo, Conteúdo)
 
 ```
 1. Framework/Estrutura Principal
-   └── Visão geral
+   └── Visêo geral
    └── Timeline/Blueprint visual
 
 2. Detalhamento por Parte
-   └── Cada seção do framework explicada
+   └── Cada seçêo do framework explicada
    └── Timing específico
 
 3. Técnicas Complementares
@@ -228,22 +228,22 @@ Sempre incluir exemplos concretos e prontos para usar:
 ### 6.3 Módulo Psicológico (ex: Gatilhos)
 
 ```
-1. Introdução à Psicologia
+1. Introduçêo à Psicologia
    └── Por que funciona no cérebro
    └── Dados de comportamento
 
-2. Cada Gatilho (seção própria)
+2. Cada Gatilho (seçêo própria)
    └── Nome + emoji identificador
    └── Como funciona no cérebro
    └── Tipos/variações
    └── Exemplos de hooks prontos
-   └── Dica de aplicação
+   └── Dica de aplicaçêo
 
 3. Combinações
    └── Como usar 2-3 gatilhos juntos
 
 4. Resumo em Tabela
-   └── Visão geral de todos
+   └── Visêo geral de todos
 ```
 
 ### 6.4 Módulo Prático (ex: Roteiros)
@@ -253,8 +253,8 @@ Sempre incluir exemplos concretos e prontos para usar:
    └── Passos para adaptar
    └── Legenda de símbolos
 
-2. Roteiros por Nicho (1 seção cada)
-   └── Header com duração e formato
+2. Roteiros por Nicho (1 seçêo cada)
+   └── Header com duraçêo e formato
    └── Tags de hook e gatilhos usados
    └── Timeline detalhada segundo a segundo
    └── Dicas específicas do nicho
@@ -285,23 +285,23 @@ Usar para processos sequenciais:
 Usar para mostrar processos:
 
 ```
-📱 Upload → 🧪 Teste (300-500 views) → 📊 Avaliação → 🚀 Escala
+📱 Upload → 🧪 Teste (300-500 views) → 📊 Avaliaçêo → 🚀 Escala
 ```
 
 ### 7.3 Barras de Progresso
 Usar para benchmarks e comparações:
 
 ```
-<30%  [████░░░░░░░░░░░░░░░░] Distribuição cortada
+<30%  [████░░░░░░░░░░░░░░░░] Distribuiçêo cortada
 75%+  [████████████████████] Potencial viral
 ```
 
-### 7.4 Grid de Comparação
+### 7.4 Grid de Comparaçêo
 Usar para contrastar opções:
 
 ```
 ┌─────────────────────┬─────────────────────┐
-│ ✓ FAZER             │ ✗ NÃO FAZER         │
+│ ✓ FAZER             │ ✗ NêO FAZER         │
 ├─────────────────────┼─────────────────────┤
 │ Hooks impactantes   │ Intros longas       │
 │ Cortes rápidos      │ Cenas estáticas     │
@@ -332,7 +332,7 @@ Usar para contrastar opções:
 |------|-------|
 | 75%+ watch time = viral | TikTok Creator Portal |
 | 83% compras por impulso | Influencer Marketing Hub |
-| 65% decisão em 3 segundos | Estudos de atenção digital |
+| 65% decisêo em 3 segundos | Estudos de atençêo digital |
 | Framework 90 dias | Análise de contas de sucesso |
 | Efeito Halo | Marketing multi-channel research |
 
@@ -343,22 +343,22 @@ Usar para contrastar opções:
 ### Antes de Publicar, Verificar:
 
 **Estrutura:**
-- [ ] Header completo (badge, título, descrição)
+- [ ] Header completo (badge, título, descriçêo)
 - [ ] Stats banner com métricas relevantes
 - [ ] Seções bem separadas e identificáveis
 - [ ] Resumo/checklist no final
 - [ ] CTA de volta ao curso
 
 **Conteúdo:**
-- [ ] Cada conceito tem explicação do "por quê"
+- [ ] Cada conceito tem explicaçêo do "por quê"
 - [ ] Há exemplos práticos e hooks prontos
 - [ ] Comparações certo/errado quando aplicável
 - [ ] Dados com fontes citadas
-- [ ] Dicas de aplicação prática
+- [ ] Dicas de aplicaçêo prática
 
 **Visual:**
 - [ ] Emojis usados consistentemente
-- [ ] Cores seguem o padrão do módulo
+- [ ] Cores seguem o padrêo do módulo
 - [ ] Elementos visuais (barras, grids, timelines)
 - [ ] Hierarquia visual clara
 
@@ -370,7 +370,7 @@ Usar para contrastar opções:
 
 ---
 
-## 10. Template de Criação de Novo Módulo
+## 10. Template de Criaçêo de Novo Módulo
 
 ```markdown
 # Planejamento do Módulo X: [Nome]

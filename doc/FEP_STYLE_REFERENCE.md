@@ -3,13 +3,13 @@
 > **Fundamentos e Engenharia de Prompt**
 > Sistema de Design Completo para Desenvolvimento de Interfaces
 
-**Versão:** 1.0 | **Data:** 2025-11-04 | **Autor:** FEP Team
+**Versêo:** 1.0 | **Data:** 2025-11-04 | **Autor:** FEP Team
 
 ---
 
 ## 📋 Índice Rápido
 
-- [Visão Geral](#visão-geral)
+- [Visêo Geral](#visêo-geral)
 - [Dark Mode](#dark-mode)
 - [Identidade Visual](#identidade-visual)
 - [Sistema de Cores](#sistema-de-cores)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 Visão Geral
+## 🎯 Visêo Geral
 
 ### Sobre o Projeto
 
@@ -31,7 +31,7 @@
 ### Princípios de Design
 
 1. ✅ **Clareza** - Interface limpa e fácil de navegar
-2. ✅ **Progressão Visual** - Cada nível tem sua identidade
+2. ✅ **Progressêo Visual** - Cada nível tem sua identidade
 3. ✅ **Acessibilidade** - WCAG 2.1 AA compliant
 4. ✅ **Performance** - Animações suaves
 5. ✅ **Mobile-First** - Design responsivo
@@ -50,7 +50,7 @@ Dark Mode:      Tailwind class-based (localStorage + system preference)
 
 ## 🌙 Dark Mode
 
-### Configuração
+### Configuraçêo
 
 O projeto usa dark mode baseado em classes do Tailwind CSS:
 
@@ -62,7 +62,7 @@ tailwind.config = {
 }
 ```
 
-### Implementação
+### Implementaçêo
 
 **Classes Dark em Todos os Componentes:**
 - `dark:bg-neutral-900` - Background escuro
@@ -72,7 +72,7 @@ tailwind.config = {
 - `dark:text-neutral-300` - Texto secundário
 - `dark:border-neutral-700` - Bordas
 
-**Botão Toggle:**
+**Botêo Toggle:**
 ```html
 <button id="theme-toggle" class="p-2 rounded-lg bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600">
   <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -148,7 +148,7 @@ Tagline:  "Engenharia de Prompt"
 
 - **Tom**: Profissional, educacional, acessível
 - **Estilo**: Moderno, minimalista, tecnológico
-- **Emoção**: Confiança, clareza, progresso
+- **Emoçêo**: Confiança, clareza, progresso
 
 ---
 
@@ -181,7 +181,7 @@ Tagline:  "Engenharia de Prompt"
 --gray-50:        #F9FAFB;  /* Backgrounds */
 --gray-100:       #F3F4F6;  /* Cards alternativos */
 --gray-200:       #E5E7EB;  /* Bordas leves */
---gray-300:       #D1D5DB;  /* Bordas padrão */
+--gray-300:       #D1D5DB;  /* Bordas padrêo */
 --gray-600:       #6B7280;  /* Texto secundário */
 --gray-700:       #374151;  /* Texto principal */
 --gray-900:       #1F2937;  /* Títulos */
@@ -222,7 +222,7 @@ background: linear-gradient(90deg, #3B82F6, #8B5CF6);
 | **Badge** | `bg-emerald-500` | `bg-blue-500` | `bg-purple-500` |
 | **Borda** | `border-emerald-200` | `border-blue-200` | `border-purple-200` |
 | **Hover** | `border-emerald-400` | `border-blue-400` | `border-purple-400` |
-| **Botão** | `bg-emerald-500` | `bg-blue-500` | `bg-purple-500` |
+| **Botêo** | `bg-emerald-500` | `bg-blue-500` | `bg-purple-500` |
 
 ---
 
@@ -270,7 +270,7 @@ H3:  1.5rem (24px)
 <h1 class="text-4xl sm:text-6xl font-bold">Título</h1>
 
 <!-- Section Title -->
-<h2 class="text-3xl sm:text-4xl font-bold">Seção</h2>
+<h2 class="text-3xl sm:text-4xl font-bold">Seçêo</h2>
 
 <!-- Card Title -->
 <h3 class="text-2xl font-bold">Card</h3>
@@ -291,14 +291,14 @@ H3:  1.5rem (24px)
 ```
 xs:   0.25rem   (4px)   - Espaços mínimos
 sm:   0.5rem    (8px)   - Gaps pequenos
-md:   1rem      (16px)  - Padrão
+md:   1rem      (16px)  - Padrêo
 lg:   1.5rem    (24px)  - Entre elementos
 xl:   2rem      (32px)  - Entre seções
 2xl:  3rem      (48px)  - Padding de seções
 3xl:  4rem      (64px)  - Espaços grandes
 ```
 
-### Container Padrão
+### Container Padrêo
 
 ```html
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -339,7 +339,7 @@ xl:  1280px  - Large desktop
 
 ## 🧩 Componentes
 
-### 1. Navegação
+### 1. Navegaçêo
 
 ```html
 <nav class="sticky top-0 z-50 bg-white shadow-sm">
@@ -369,7 +369,7 @@ xl:  1280px  - Large desktop
 ```
 
 **Propriedades:**
-- Posição: `sticky top-0`
+- Posiçêo: `sticky top-0`
 - Z-index: `50`
 - Altura: `h-16` (64px)
 - Shadow: `shadow-sm`
@@ -432,7 +432,7 @@ xl:  1280px  - Large desktop
       </li>
     </ul>
 
-    <!-- Botão -->
+    <!-- Botêo -->
     <button class="w-full bg-emerald-500 text-white py-3 rounded-lg font-semibold hover:bg-emerald-600">
       Começar
     </button>
@@ -507,7 +507,7 @@ xl:  1280px  - Large desktop
 
       <div class="topic-explanation hidden ml-6 mt-2 p-4 bg-emerald-50 dark:bg-emerald-900/20 rounded-lg border-l-4 border-emerald-500">
         <p class="text-sm mb-1.5 text-neutral-700 dark:text-neutral-300">
-          <strong class="text-emerald-600">O que é:</strong> Explicação clara
+          <strong class="text-emerald-600">O que é:</strong> Explicaçêo clara
         </p>
         <p class="text-sm mb-1.5 text-neutral-700 dark:text-neutral-300">
           <strong class="text-emerald-600">Por que aprender:</strong> Benefícios
@@ -546,7 +546,7 @@ document.addEventListener('click', function(e) {
 });
 ```
 
-**Espaçamento Compacto (Versão Real):**
+**Espaçamento Compacto (Versêo Real):**
 - Entre botões: `space-y-0.5` (2px) - Layout compacto
 - Padding dos botões: `py-1` (4px) - Botões finos
 - Entre parágrafos: `mb-1.5` (6px) - Espaçamento mínimo
@@ -644,7 +644,7 @@ document.addEventListener('click', function(e) {
 
 #### Estrutura de Conteúdo Rico do Modal
 
-**Padrão desenvolvido para os modais do projeto:**
+**Padrêo desenvolvido para os modais do projeto:**
 
 ```html
 <div class="modal-body">
@@ -652,11 +652,11 @@ document.addEventListener('click', function(e) {
   <!-- Intro (obrigatória) -->
   <div class="mb-6">
     <p class="text-lg text-neutral-800 dark:text-neutral-200 mb-3 font-semibold">
-      Descrição inspiradora do módulo
+      Descriçêo inspiradora do módulo
     </p>
     <div class="flex gap-3 flex-wrap">
       <span class="px-3 py-1 bg-emerald-100 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-300 rounded-full text-sm font-semibold">
-        Duração
+        Duraçêo
       </span>
       <span class="px-3 py-1 bg-emerald-100 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-300 rounded-full text-sm font-semibold">
         Aulas
@@ -666,20 +666,20 @@ document.addEventListener('click', function(e) {
 
   <!-- Seções de Conteúdo (3-5 seções recomendadas) -->
 
-  <!-- Seção com gradiente destacado -->
+  <!-- Seçêo com gradiente destacado -->
   <div class="bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-900/20 dark:to-purple-900/20 rounded-lg p-6 mb-6 border-2 border-indigo-200 dark:border-indigo-800">
     <div class="flex items-center mb-4">
       <span class="text-3xl mr-3">👁️</span>
-      <h3 class="text-xl font-bold text-indigo-900 dark:text-indigo-300">Título da Seção</h3>
+      <h3 class="text-xl font-bold text-indigo-900 dark:text-indigo-300">Título da Seçêo</h3>
     </div>
-    <!-- Conteúdo da seção -->
+    <!-- Conteúdo da seçêo -->
   </div>
 
-  <!-- Seção padrão (fundo branco) -->
+  <!-- Seçêo padrêo (fundo branco) -->
   <div class="bg-white dark:bg-neutral-800 rounded-lg p-6 mb-6 border border-neutral-200 dark:border-neutral-700">
     <div class="flex items-center mb-4">
       <span class="text-3xl mr-3">🔄</span>
-      <h3 class="text-xl font-bold text-neutral-900 dark:text-neutral-100">Outra Seção</h3>
+      <h3 class="text-xl font-bold text-neutral-900 dark:text-neutral-100">Outra Seçêo</h3>
     </div>
     <!-- Conteúdo -->
   </div>
@@ -708,7 +708,7 @@ document.addEventListener('click', function(e) {
     <p class="font-bold text-purple-900 dark:text-purple-300">Título</p>
   </div>
   <p class="text-sm text-neutral-700 dark:text-neutral-300 italic mb-2">
-    "Citação ou depoimento em itálico"
+    "Citaçêo ou depoimento em itálico"
   </p>
   <p class="text-sm text-neutral-700 dark:text-neutral-300">
     Conteúdo explicativo
@@ -721,7 +721,7 @@ document.addEventListener('click', function(e) {
 <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded border-l-4 border-blue-400">
   <p class="font-bold text-blue-900 dark:text-blue-300 mb-1 text-sm">1. Propósito Claro</p>
   <p class="text-xs text-neutral-700 dark:text-neutral-300">
-    Descrição concisa do conceito
+    Descriçêo concisa do conceito
   </p>
 </div>
 ```
@@ -739,8 +739,8 @@ document.addEventListener('click', function(e) {
   <div class="bg-gradient-to-br from-emerald-100 to-blue-100 dark:from-emerald-900/30 dark:to-blue-900/30 p-4 rounded border border-emerald-300 dark:border-emerald-700">
     <p class="font-semibold text-emerald-800 dark:text-emerald-300 mb-2 text-sm">✨ Agora:</p>
     <ul class="space-y-1 text-xs text-neutral-800 dark:text-neutral-200">
-      <li>✓ Solução 1</li>
-      <li>✓ Solução 2</li>
+      <li>✓ Soluçêo 1</li>
+      <li>✓ Soluçêo 2</li>
     </ul>
   </div>
 </div>
@@ -774,11 +774,11 @@ document.addEventListener('click', function(e) {
   <ol class="space-y-3 text-sm text-neutral-700 dark:text-neutral-300">
     <li class="flex items-start">
       <span class="font-bold text-purple-600 mr-2">1.</span>
-      <span><strong>Passo:</strong> Descrição do passo</span>
+      <span><strong>Passo:</strong> Descriçêo do passo</span>
     </li>
     <li class="flex items-start">
       <span class="font-bold text-purple-600 mr-2">2.</span>
-      <span><strong>Passo:</strong> Descrição do passo</span>
+      <span><strong>Passo:</strong> Descriçêo do passo</span>
     </li>
   </ol>
 </div>
@@ -805,7 +805,7 @@ Red:     border-red-500 | bg-red-50 dark:bg-red-900/20
 #### Princípios de Conteúdo dos Modais
 
 1. **Estrutura Clara:**
-   - Intro com descrição + badges de duração
+   - Intro com descriçêo + badges de duraçêo
    - 3-5 seções de conteúdo (variando gradientes e fundos)
    - CTA final com link para página completa
 
@@ -932,7 +932,7 @@ document.addEventListener('keydown', function(e) {
 ### Princípios
 
 1. Usar apenas `transform` e `opacity` (performance)
-2. Duração: 0.2s-0.8s
+2. Duraçêo: 0.2s-0.8s
 3. Easing: `ease-out` ou `cubic-bezier(0.4, 0, 0.2, 1)`
 4. Respeitar `prefers-reduced-motion`
 
@@ -1055,7 +1055,7 @@ XL Desktop (xl):   >= 1280px
 </head>
 <body class="bg-gray-50">
 
-  <!-- Navegação -->
+  <!-- Navegaçêo -->
   <nav class="sticky top-0 z-50 bg-white shadow-sm">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between items-center h-16">
@@ -1144,7 +1144,7 @@ XL Desktop (xl):   >= 1280px
 
 ---
 
-## ✅ Checklist de Implementação
+## ✅ Checklist de Implementaçêo
 
 - [ ] Incluir Tailwind CSS CDN
 - [ ] Incluir Google Fonts (Inter)
@@ -1158,8 +1158,8 @@ XL Desktop (xl):   >= 1280px
 
 ---
 
-**Última atualização:** 2025-11-04
-**Versão:** 1.0
+**Última atualizaçêo:** 2025-11-04
+**Versêo:** 1.0
 **Autor:** FEP Team
 
 ---

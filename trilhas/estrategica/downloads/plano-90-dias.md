@@ -1,11 +1,11 @@
-# Plano de Implementação - 90 Dias
+# Plano de Implementaçêo - 90 Dias
 ## TikTok Shop Academy 2025 - Trilha Estratégica
 
 ---
 
-## Fase 1: Fundação de Produto (Semana 1-2)
+## Fase 1: Fundaçêo de Produto (Semana 1-2)
 
-### Seleção de Produto
+### Seleçêo de Produto
 - [ ] Pesquisei produtos trending (Kalodata, Shoplus)
 - [ ] Identifiquei 3-5 produtos na faixa R$50-100
 - [ ] Verifiquei margem mínima de 40%
@@ -14,7 +14,7 @@
 
 ### Setup do Produto
 - [ ] Cadastrei no TikTok Shop com fotos de qualidade
-- [ ] Escrevi descrição com benefícios
+- [ ] Escrevi descriçêo com benefícios
 - [ ] Defini preço na faixa de impulso
 - [ ] Configurei política de frete
 - [ ] Testei fluxo de compra completo
@@ -25,10 +25,10 @@
 
 ## Fase 2: Volume de Conteúdo (Semana 3-4)
 
-### Setup de Produção
+### Setup de Produçêo
 - [ ] Criei 5-10 templates de roteiro
-- [ ] Montei kit de gravação
-- [ ] Defini cenário padrão
+- [ ] Montei kit de gravaçêo
+- [ ] Defini cenário padrêo
 - [ ] Configurei CapCut com templates
 - [ ] Estabeleci rotina de batch creation
 
@@ -46,7 +46,7 @@
 ## Fase 3: Programa de Afiliados (Semana 5-6)
 
 ### Estrutura do Programa
-- [ ] Defini tiers de comissão (10-25%)
+- [ ] Defini tiers de comissêo (10-25%)
 - [ ] Criei kit de onboarding
 - [ ] Preparei templates de abordagem
 - [ ] Configurei tracking de afiliados
@@ -81,7 +81,7 @@
 
 ---
 
-## Fase 5: Automação (Semana 9-10)
+## Fase 5: Automaçêo (Semana 9-10)
 
 ### Automações de Conteúdo
 - [ ] Batch creation implementado
@@ -89,7 +89,7 @@
 - [ ] Templates CapCut/Canva otimizados
 - [ ] IA para roteiros/copy
 
-### Automações de Comunicação
+### Automações de Comunicaçêo
 - [ ] FAQ automático
 - [ ] Onboarding de afiliados automatizado
 - [ ] Email de tracking automático
@@ -120,9 +120,9 @@
 - [ ] GMV > R$30K/mês
 - [ ] Margem líquida > 25%
 - [ ] Crescimento > 20% mês a mês
-- [ ] Tempo em operação < 4h/dia
+- [ ] Tempo em operaçêo < 4h/dia
 
-**Marco:** Operação lucrativa e escalável
+**Marco:** Operaçêo lucrativa e escalável
 
 ---
 
