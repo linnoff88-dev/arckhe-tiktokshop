@@ -34,7 +34,7 @@ Hook "Overlay" + Gatilho Aspiracao/Surpresa
 Hook "ASMR Sensorial" + Gatilho Nostalgia/Futurismo
 
 - **00-05s:** Unboxing, som satisfatorio, luzes RGB. Texto: "O fone mais lindo do TikTok chegou"
-- **05-15s:** B-Roll cinematografico Cyberpunk. Voz: "Design transparente, cancelamento de ruido..."
+- **05-15s:** B-Roll cARCKHÉtografico Cyberpunk. Voz: "Design transparente, cancelamento de ruido..."
 - **15-20s:** Teste de som, reacao ao grave. Texto: "O grave disso e ilegal"
 - **20-25s:** Compara preco ao Airpod. Texto: "1/10 do preco da maca. Link na bio"
 
